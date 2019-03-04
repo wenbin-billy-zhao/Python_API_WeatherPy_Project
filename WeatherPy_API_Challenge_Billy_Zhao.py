@@ -231,9 +231,3 @@ tempPlot.set(xlabel='Latitude', ylabel='Wind Speed (mph)')
 plt.title(f'Latitude vs Wind Speed ({todayDate})')
 plt.show()
 
-
-# In[ ]:
-
-
-
-
